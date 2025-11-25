@@ -1,0 +1,127 @@
+{
+  "jobs": [
+    {
+      "title": "Senior Frontend Developer",
+      "create_time": "2025-08-15T09:40:00",
+      "work_time": "Full Time",
+      "work_place": "USA only",
+      "company_name": "Photosnap",
+      "skills": ["Frontend", "Senior", "HTML", "CSS", "JavaScript"],
+      "isNew": true,
+      "isFeatured": true,
+      "image": "./images/svg/photosnap.svg",
+      "id": 1
+    },
+    {
+      "title": "Fullstack Developer",
+      "create_time": "2025-08-19T15:10:00",
+      "work_time": "Part Time",
+      "work_place": "Remote",
+      "company_name": "Manage",
+      "skills": ["Fullstack", "Midweight", "Python", "React"],
+      "isNew": true,
+      "isFeatured": true,
+      "image": "./images/svg/manage.svg",
+      "id": 2
+    },
+    {
+      "title": "Junior Frontend Developer",
+      "create_time": "2025-08-02T09:40:00",
+      "work_time": "Part Time",
+      "work_place": "USA only",
+      "company_name": "Account",
+      "skills": ["Frontend", "Junior", "React", "Sass", "JavaScript"],
+      "isNew": true,
+      "isFeatured": false,
+      "image": "./images/svg/account.svg",
+      "id": 3
+    },
+    {
+      "title": "Junior Frontend Developer",
+      "create_time": "2025-06-15T09:40:00",
+      "work_time": "Contract",
+      "work_place": "USA only",
+      "company_name": "MyHome",
+      "skills": ["Frontend", "Junior", "CSS", "JavaScript"],
+      "isNew": false,
+      "isFeatured": false,
+      "image": "./images/svg/myhome.svg",
+      "id": 4
+    },
+    {
+      "title": "Software Engineer",
+      "create_time": "2025-08-15T09:40:00",
+      "work_time": "Full Time",
+      "work_place": "Worldwide",
+      "company_name": "Loop Studios",
+      "skills": ["Fullstack", "Midweight", "JavaScript", "Sass", "Ruby"],
+      "isNew": false,
+      "isFeatured": false,
+      "image": "./images/svg/loop-studios.svg",
+      "id": 5
+    },
+    {
+      "title": "Junior Backend Developer",
+      "create_time": "2025-08-15T09:40:00",
+      "work_time": "Full Time",
+      "work_place": "UK only",
+      "company_name": "FaceIt",
+      "skills": ["Backend", "Junior", "Ruby", "RoR"],
+      "isNew": false,
+      "isFeatured": false,
+      "image": "./images/svg/faceIt.svg",
+      "id": 6
+    },
+    {
+      "title": "Junior Developer",
+      "create_time": "2025-08-15T09:40:00",
+      "work_time": "Full Time",
+      "work_place": "Worldwide",
+      "company_name": "Shortly",
+      "skills": ["Frontend", "Junior", "HTML", "Sass", "JavaScript"],
+      "isNew": false,
+      "isFeatured": false,
+      "image": "./images/svg/shortly.svg",
+      "id": 7
+    },
+    {
+      "title": "Junior Frontend Developer",
+      "create_time": "2025-08-15T09:40:00",
+      "work_time": "Full Time",
+      "work_place": "USA only",
+      "company_name": "Insure",
+      "skills": ["Frontend", "Junior", "Vue", "JavaScript", "Sass"],
+      "isNew": false,
+      "isFeatured": false,
+      "image": "./images/svg/insure.svg",
+      "id": 8
+    },
+    {
+      "title": "Full Stack Engineer",
+      "create_time": "2025-08-15T09:40:00",
+      "work_time": "Full Time",
+      "work_place": "Worldwide",
+      "company_name": "Eyecam Co.",
+      "skills": ["Fullstack", "Midweight", "JavaScript", "Django", "Python"],
+      "isNew": false,
+      "isFeatured": false,
+      "image": "./images/svg/eyecam.svg",
+      "id": 9
+    },
+    {
+      "title": "Front-end Dev",
+      "create_time": "2025-08-15T09:40:00",
+      "work_time": "Part Time",
+      "work_place": "Worldwide",
+      "company_name": "The Air Filter Company",
+      "skills": ["Frontend", "Junior", "React", "Sass", "JavaScript"],
+      "isNew": false,
+      "isFeatured": false,
+      "image": "./images/svg/the-air-filter-company.svg",
+      "id": 10
+    }
+  ],
+  "total": 10,
+  "skip": 0,
+  "limit": 0
+}
