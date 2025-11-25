@@ -9,5 +9,8 @@
   },
   "author": "",
   "license": "ISC",
-  "keywords": []
+  "keywords": [],
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
 }
